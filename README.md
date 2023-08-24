@@ -5,6 +5,8 @@ Converts a changing function address into a shellcode one used by the buffer ove
 
 Compiled on Hyper-V Kali Linux x64 with Intel I3-8145U.
 
+https://github.com/vulnwarex/bin2sc
+
 [Demonstration](https://github.com/zlw9991/C-Function-Address-To-BufferOverflow-Shellcode/blob/main/ovtest)
 
 [Demo Code](https://github.com/zlw9991/C-Function-Address-To-BufferOverflow-Shellcode/blob/main/ovtest.c)
