@@ -11,4 +11,8 @@ https://github.com/vulnwarex/bin2sc
 
 [Demo Code](https://github.com/zlw9991/C-Function-Address-To-BufferOverflow-Shellcode/blob/main/ovtest.c)
 
+[Shellcode /bin/sh example code](https://github.com/zlw9991/C-Function-Address-To-BufferOverflow-Shellcode/blob/main/shellcodeinj.c)
+
+[Shellcode /bin/sh example binary](https://github.com/zlw9991/C-Function-Address-To-BufferOverflow-Shellcode/blob/main/shellcodeinj)
+
 [Function WIP]()
