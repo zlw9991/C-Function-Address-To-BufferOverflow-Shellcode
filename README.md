@@ -11,6 +11,8 @@ https://github.com/vulnwarex/bin2sc
 
 [Demo Code](https://github.com/zlw9991/C-Function-Address-To-BufferOverflow-Shellcode/blob/main/ovtest.c)
 
+Working shellcode casted as void function, then executed as seen in the slides, for 64bit linux.
+
 [Shellcode /bin/sh example code](https://github.com/zlw9991/C-Function-Address-To-BufferOverflow-Shellcode/blob/main/shellcodeinj.c)
 
 [Shellcode /bin/sh example binary](https://github.com/zlw9991/C-Function-Address-To-BufferOverflow-Shellcode/blob/main/shellcodeinj)
